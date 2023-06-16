@@ -1,5 +1,5 @@
-# project-3
-#Industry Type-Lifestyle
+# project-3#
+#Industry Type-Lifestyle#
 #Project Description#
 A platform created specifically to display culinary material, recipes, and food-related topics is a food blogging website project. The website strives to offer a simple, aesthetically pleasing design that draws users in with mouthwatering culinary imagery and educational material.
 
