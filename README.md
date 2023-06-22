@@ -24,3 +24,9 @@ Opportunity Area-Food blogging sites as a Centralised Hub for Culinary Inspirati
 5) After deployment click on go to resource and then on containers.
 6) Now select web container and then upload your HTML code file and folder and then click on save.
 7) Now your static web app is deployed.
+
+
+Screenshots are included for a variety of the used Azure services. ![Screenshot (116)](https://github.com/Viveksy007/project-3/assets/131756783/67416016-a427-497e-bae7-7f5d60956bce)
+
+![Screenshot (125)](https://github.com/Viveksy007/project-3/assets/131756783/454979de-0faa-408f-990a-452869eca2c3)
+![Screenshot (126)](https://github.com/Viveksy007/project-3/assets/131756783/75ab2bba-6ee3-4cfb-8916-0b1517001ec4)
